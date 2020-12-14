@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EVA2_8_PERMICIOS_ANDROID_6"
